@@ -1,0 +1,23 @@
+.number-one,
+.number-three,
+.number-five{
+    color: black;
+    background-color: palevioletred;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.number-three{
+    font-size: 36px;
+}
+
+
+#number-two{
+color: blue;
+font-size: 50px;
+}
+
+#number-four{
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
